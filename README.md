@@ -7,8 +7,9 @@ Answer the following questions based on your understanding of software engineeri
 
 Questions:
 Define Software Engineering:
-
 What is software engineering, and how does it differ from traditional programming?
+Software engineering is the development, operation and maintenance of software products using well-defined scientific or engineering principles, methods and tools in order to solve real-world problems. The outcome of software engineering is an efficient and reliable software products.
+
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.

@@ -8,6 +8,7 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 What is software engineering, and how does it differ from traditional programming?
+
 Software engineering is the development, operation and maintenance of software products using well-defined scientific or engineering principles, methods and tools in order to solve real-world problems. The outcome of software engineering is an efficient and reliable software products.
 
 The differnces between software engineering and traditional programming are as follows:
@@ -23,14 +24,22 @@ Software engineering relies on programming languages and software development to
 
 Software Development Life Cycle (SDLC):
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+
 Software Develpoment Life Cycle(SDLC) consists of various phases which are as follows:
 PLANNING PHASE: This is the first phase of SDLC and It involves defining the project scope, goals, and objectives. The team identifies the requirements of the software, defines the project timeline, and creates a budget.
+
 REQUIREMENT ANALYSIS PHASE:  In this phase, the team analyzes the requirements gathered during the planning phase. They identify the functional and non-functional requirements of the software, including the user interface, performance, and security requirements.
+
 DESIGN PHASE:This phase involves creating a detailed design of the software. The team creates a detailed architecture, user interface, and data models. This phase is critical in ensuring that the software meets the requirements and is scalable and maintainable.
+
 IMPLEMENTATION PHASE: The implementation phase involves writing the code for the software. The team develops the software using the design specifications created in the previous phase.
+
 TESTING PHASE: The testing phase involves testing the software to ensure it meets the requirements and is free of defects. The team performs various types of testing, including unit testing, integration testing, and system testing.
+
 DEPOLYMENT PHASE: The deployment phase involves deploying the software to the production environment. The team ensures that the software is installed and configured correctly, and that it is available for use by the end-users.
+
 MAINTENANCE PHASE: The maintenance phase involves maintaining the software after it has been deployed. The team identifies and fixes defects, updates the software to ensure it remains compatible with changing technology, and makes improvements to the software to meet changing user requirements.
+
 
 Agile vs. Waterfall Models:
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
